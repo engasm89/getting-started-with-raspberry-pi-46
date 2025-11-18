@@ -1,3 +1,11 @@
+/*
+ * Course: Getting Started With Raspberry Pi 46
+ * Platform: Raspberry Pi
+ * Author: Ashraf S A AlMadhoun
+ * Purpose: Auto-generated metadata block to document the learning goals.
+ * Notes: Auto-generated metadata block (2025-11-18)
+ */
+
 #include <stdio.h> // Include standard I/O for printing status
 #include <unistd.h> // Include POSIX sleep functions for delays
 
@@ -10,6 +18,7 @@ int gpio_set_direction(int gpio, int output) { return 0; } // Set direction (stu
 int gpio_write(int gpio, int value) { return 0; } // Write logical value to GPIO (stub)
 
 // Entry point for the program
+// Main routine: orchestrates the getting started with raspberry pi 46 scenario
 int main(void) { // Start of main function
   printf("Raspberry Pi GPIO LED Blink (Course 46)\n"); // Print a startup message
   gpio_export(LED_GPIO); // Make sure the LED GPIO is exported
