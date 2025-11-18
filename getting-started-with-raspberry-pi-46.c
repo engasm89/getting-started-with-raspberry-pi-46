@@ -6,6 +6,14 @@
  * Notes: Auto-generated metadata block (2025-11-18)
  */
 
+/*
+ * Course: Getting Started With Raspberry Pi 46
+ * Platform: Raspberry Pi
+ * Author: Ashraf S A AlMadhoun
+ * Purpose: Auto-generated metadata block to document the learning goals.
+ * Notes: Auto-generated metadata block (2025-11-18)
+ */
+
 #include <stdio.h> // Include standard I/O for printing status
 #include <unistd.h> // Include POSIX sleep functions for delays
 
